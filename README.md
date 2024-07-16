@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @buia91KW
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning C#, Python
+- 😄 Pronouns: he/him
